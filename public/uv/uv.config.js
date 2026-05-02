@@ -9,4 +9,6 @@ self.__uv$config = {
 	bundle: "/uv/uv.bundle.js",
 	config: "/uv/uv.config.js",
 	sw: "/uv/uv.sw.js",
+	bare:"https://bare.benroberts.dev/",
+	
 };
